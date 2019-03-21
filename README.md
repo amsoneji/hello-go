@@ -1,11 +1,13 @@
 # hello-go
 Repo and structure to help developers learn Go easily!
 
-This repo is meant to help developers get started with learning and using Go easily! It provides both example syntax and operations in the `hello.go` file, some sample test cases in `hello_test.go`, and finally a structure with which to run all these Go programs within a docker container.
+This repo is meant to help developers get started with learning and using Go. It provides both example syntax and operations in the `hello.go` file, some sample test cases in `hello_test.go`, and finally a structure with which to run all these Go programs within a docker container.
 
 ## Prerequisites
 
 Please make sure to have Docker up and running on your host machine. You also must be able to execute bash commands via a command line interface.
+
+Please note: you do not necessarily have to have Go installed on your local to get started!
 
 ## Getting started
 

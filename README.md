@@ -32,4 +32,10 @@ Another area needing improvement is `hello.go` and `hello_test.go` - these files
 
 Please feel free to fork and create a PR with changes if you see an area you'd like to help with!
 
+## Additional Resources
+
+ArdanLabs is an excellent resource for learning all about Go and it's underlying setup: `git clone https://github.com/ardanlabs/gotraining.git`
+
+GoByExample is also a good resource to get your hands on Go syntax and examples: https://gobyexample.com/
+
 ## Thanks!

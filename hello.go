@@ -21,7 +21,7 @@ func testerFunc(ref *json_response_struct){
   ref.Struct = map[string]interface{}{"test":"blah2"}
 }
 
-func main() {
+func hello() {
   // Basic operations
   fmt.Println("hello!")
   fmt.Println("testing " + "concatenation")
@@ -202,8 +202,6 @@ func main() {
     },
   }
   fmt.Println("test_input: ",test_input)
-
-  // Slices
 
   // Channels
 

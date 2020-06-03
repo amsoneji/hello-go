@@ -12,5 +12,5 @@ docker run -it --rm \
   --mount type=bind,source="$(pwd)/.bashrc",target=/root/.bashrc \
   --workdir="/go/src/app/" \
   -p 3000:3000 \
-  golang:1.11.6 \
+  golang:1.14.4 \
   /bin/bash
